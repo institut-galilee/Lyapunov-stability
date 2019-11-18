@@ -1,8 +1,7 @@
-schematic
+schematic : schema
 
-![led blink](https://user-images.githubusercontent.com/schematic.png)
+![schematic](https://user-images.githubusercontent.com/schematic.png)
 
-sketch
+sketch : sketch
 
-![led blink](https://user-images.githubusercontent.com/sketch.png)
-
+![sketch](https://user-images.githubusercontent.com/sketch.png)
