@@ -1,7 +1,7 @@
 schematic : schema
 
-![schematic](https://user-images.githubusercontent.com/schematic.png)
+![schematic](/schematic.png)
 
 sketch : sketch
 
-![sketch](https://user-images.githubusercontent.com/sketch.png)
+![sketch](/sketch.png)
