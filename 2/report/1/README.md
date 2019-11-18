@@ -1,7 +1,7 @@
 schematic : schema
 
-![schematic](/schematic.png)
+![schematic](/2/report/1/schematic.png)
 
 sketch : sketch
 
-![sketch](/sketch.png)
+![sketch](/2/report/1/sketch.png)
